@@ -2,7 +2,7 @@
   "name": "weatherstation-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://your-site-name.netlify.app",  
+  "homepage": "https://your-site-name.netlify.app",
   "dependencies": {
     "axios": "^1.7.9",
     "bootstrap": "^5.3.3",
@@ -16,6 +16,7 @@
     "react-dom": "^18.3.1",
     "react-router-dom": "^7.0.2",
     "react-scripts": "5.0.1",
+    "socket.io-client": "^4.8.1",
     "web-vitals": "^4.2.4"
   },
   "scripts": {
@@ -43,4 +44,3 @@
     ]
   }
 }
-
