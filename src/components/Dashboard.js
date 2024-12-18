@@ -24,7 +24,7 @@ const Dashboard = () => {
     setWeatherData(null);
   
     try {
-      const response = await axios.get("http://localhost:5000/api/weather/current");
+      const response = await axios.get("https://weatherstation-backend-76068a291fbb.herokuapp.com/api/weather/current");
   
       console.log("API Response:", response.data); // Log the response for debugging
   
