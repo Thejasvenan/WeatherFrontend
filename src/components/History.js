@@ -121,7 +121,7 @@ const History = () => {
           <div className="chart-container">
             <h2 className="section-heading">Pressure</h2>
             <Line
-              data={createChartData(pressureData, "Pressure (kPa)", "#00796b", "#b2dfdb")}
+              data={createChartData(pressureData, "Pressure (hPa)", "#00796b", "#b2dfdb")}
             />
           </div>
 
