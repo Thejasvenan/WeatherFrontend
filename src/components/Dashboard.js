@@ -88,7 +88,7 @@ const Dashboard = () => {
 
           {/* Compass with Wind Direction */}
           <div>
-            <p><strong>Wind Direction:</strong> {windDirection}</p>
+            <p><strong>Wind Direction:</strong> {windDirection} ({weatherData.wind_direction}°)</p>
             <div style={{ position: "relative", width: "150px", height: "150px", margin: "auto" }}>
               {/* Compass Circle */}
               <svg viewBox="0 0 100 100" width="150" height="150">
