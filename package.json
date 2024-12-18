@@ -2,6 +2,7 @@
   "name": "weatherstation-frontend",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://your-site-name.netlify.app",  
   "dependencies": {
     "axios": "^1.7.9",
     "bootstrap": "^5.3.3",
@@ -42,3 +43,4 @@
     ]
   }
 }
+
