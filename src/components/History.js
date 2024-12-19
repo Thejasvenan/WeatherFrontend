@@ -128,7 +128,7 @@ const History = () => {
           <div className="chart-container">
             <h2 className="section-heading">Wind Speed</h2>
             <Line
-              data={createChartData(windSpeedData, "Wind Speed (km/h)", "#ffa726", "#ffe0b2")}
+              data={createChartData(windSpeedData, "Wind Speed (m/s)", "#ffa726", "#ffe0b2")}
             />
           </div>
 

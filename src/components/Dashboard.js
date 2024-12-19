@@ -84,7 +84,7 @@ const Dashboard = () => {
           <h2 className="section-heading">Current Weather Data</h2>
           <p><strong>Temperature:</strong> {weatherData.temperature} °C</p>
           <p><strong>Pressure:</strong> {weatherData.pressure} hPa</p>
-          <p><strong>Wind Speed:</strong> {weatherData.wind_speed} km/h</p>
+          <p><strong>Wind Speed:</strong> {weatherData.wind_speed} m/s</p>
 
           {/* Compass with Wind Direction */}
           <div>
