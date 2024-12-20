@@ -24,7 +24,7 @@ To set up and run the frontend locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/weatherstation-frontend.git
+   git clone https://github.com/Thejasvenan/WeatherFrontend.git
    cd weatherstation-frontend
    ```
 
