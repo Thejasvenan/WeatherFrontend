@@ -42,10 +42,10 @@ To set up and run the frontend locally:
 
 ## Deployment
 
-This project is deployed on [Netlify](https://www.netlify.com/). To deploy your own version:
+This project is deployed on [Netlify](https://weatherstationm2.netlify.app/). To deploy your own version:
 
 1. Push your code to a GitHub repository.
-2. Connect your repository to Netlify.
+2. Connect your repository to Netlify or any other hosting pages.
 3. In Netlify settings, set the build command to `npm run build` and the publish directory to `build/`.
 
 ## Backend Integration
